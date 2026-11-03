@@ -1,0 +1,5 @@
+numpy>=2.1
+pandas>=2.2
+pyarrow>=15
+scikit-learn>=1.5
+lightgbm==4.6.0
